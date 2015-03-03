@@ -8,7 +8,7 @@
  * 
  * Sensor.TYPE_ORIENTATION may be deprecated but it works well.
  */
-
+//this is to test git//
 package com.course.example.shakeitup;
 
 import android.app.Activity;
